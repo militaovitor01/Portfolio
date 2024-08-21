@@ -60,7 +60,7 @@ body {
     width: 40%;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 10px;
 }
 
 .descricao__inicial__titulo {
