@@ -35,7 +35,6 @@ body {
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
 }
 
 .cabecalho__menu__link {
@@ -45,6 +44,7 @@ body {
     font-weight: 600;
     text-decoration: none;
     color: var(--cor--terciaria);
+    margin: 0 1em;
 }
 
 .conteudo {
@@ -150,10 +150,6 @@ body {
     .cabecalho {
         padding: 3%;
         justify-content: center;
-    }
-
-    .cabecalho__menu {
-        gap: 40px;
     }
 
     .cabecalho__menu__link {
