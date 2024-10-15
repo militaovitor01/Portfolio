@@ -156,6 +156,10 @@ body {
         gap: 40px;
     }
 
+    .cabecalho__menu__link {
+        font-size: 1.2rem;
+    }
+
     .conteudo {
         flex-direction: column-reverse;
         padding: 5%;
@@ -168,6 +172,10 @@ body {
 
     .descricao__inicial__apresentacao {
         width: auto;
+    }
+
+    .descricao__inicial__botoes__botao {
+        width: 100%; /* Aumenta a largura do botão para se ajustar melhor ao layout */
     }
 
     .img-perfil {

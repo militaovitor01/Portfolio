@@ -55,7 +55,11 @@
     font-size: 1rem; 
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
+    .principal {
+        height: auto;
+    }
+
     .lista__projetos {
         flex-direction: column;
     }
